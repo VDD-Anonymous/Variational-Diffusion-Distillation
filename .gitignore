@@ -1,3 +1,4 @@
 log/*
 cw2_results/*
 .idea/*
+/__pycache__/*
